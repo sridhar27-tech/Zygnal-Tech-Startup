@@ -3,7 +3,7 @@ www.zygnaltech.in (Our new Domain)
 
 
 
-[ZYGNALTECH](logo.jpg)
+![ZYGNALTECH](logo.jpg)
 
 
 
