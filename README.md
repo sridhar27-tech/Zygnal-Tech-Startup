@@ -1,8 +1,6 @@
 # Zygnal Tech
 www.zygnaltech.in (Our new Domain)
-
-![Zygnal Tech Banner](https://via.placeholder.com/1200x500/0ea5e9/ffffff?text=Zygnal+Tech+%7C+Digital+Innovation+Studio)  
-
+![ZYGNALTECH](logo.jpg)
 [![Website](https://img.shields.io/badge/Website-zygnal.tech-blue)](https://zygnal.tech)
 [![Angular](https://img.shields.io/badge/Angular-17-DD0031?logo=angular&logoColor=white)](https://angular.io)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
