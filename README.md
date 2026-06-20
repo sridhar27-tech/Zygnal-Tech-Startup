@@ -1,4 +1,5 @@
 # Zygnal Tech
+www.zygnaltech.in (Our new Domain)
 
 ![Zygnal Tech Banner](https://via.placeholder.com/1200x500/0ea5e9/ffffff?text=Zygnal+Tech+%7C+Digital+Innovation+Studio)  
 
