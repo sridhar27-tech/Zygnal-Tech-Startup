@@ -59,7 +59,7 @@ Built in Sydney, hosted in AWS ap-southeast-2 with strong data residency and sec
 
 ## GitHub Profile Streak
 
-![Zygnal Tech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justt.sridhar_27&theme=dark&hide_border=true)
+![Zygnal Tech GitHub Streak](https://instagram-readme-streak-stats.herokuapp.com/?user=justt.sridhar_27&theme=dark&hide_border=true)
 
 *(Replace `zygnaltech` with the actual GitHub username/organization name)*
 
